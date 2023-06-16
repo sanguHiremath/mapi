@@ -1,0 +1,22 @@
+{
+  "name": "mapi",
+  "version": "0.1.0",
+  "summary": "A short description of mapi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/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/mapi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "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": "sangamesh.hiremath@standardbank.co.za"
+  },
+  "source": {
+    "git": "https://github.com/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/mapi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "mapi/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module mapi {
+  umbrella header "mapi-umbrella.h"
+
+  export *
+  module * { export * }
+}

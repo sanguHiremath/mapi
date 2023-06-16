@@ -1,0 +1,6 @@
+framework module Pods_mapi_Example {
+  umbrella header "Pods-mapi_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

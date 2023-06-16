@@ -1,0 +1,16 @@
+PODS:
+  - mapi (0.1.0)
+
+DEPENDENCIES:
+  - mapi (from `../`)
+
+EXTERNAL SOURCES:
+  mapi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mapi: 1d96d62f9e09edcb72af6e4c7ac9b2e18b18412b
+
+PODFILE CHECKSUM: 2f842de9d5d30feafad36cdb43f23ebff1da7af4
+
+COCOAPODS: 1.12.1
