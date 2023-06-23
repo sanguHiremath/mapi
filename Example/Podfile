@@ -4,6 +4,7 @@ platform :ios, '10.0'
 
 target 'mapi_Example' do
   pod 'mapi', :path => '../'
+  pod 'Alamofire'
 
   target 'mapi_Tests' do
     inherit! :search_paths

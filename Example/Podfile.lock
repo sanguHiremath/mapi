@@ -1,16 +1,23 @@
 PODS:
-  - mapi (0.1.0)
+  - Alamofire (5.7.1)
+  - mapi (1.1.1)
 
 DEPENDENCIES:
+  - Alamofire
   - mapi (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
 
 EXTERNAL SOURCES:
   mapi:
     :path: "../"
 
 SPEC CHECKSUMS:
-  mapi: 1d96d62f9e09edcb72af6e4c7ac9b2e18b18412b
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  mapi: 9e51770797dccef90bece400d6b37938bb3eaa71
 
-PODFILE CHECKSUM: 2f842de9d5d30feafad36cdb43f23ebff1da7af4
+PODFILE CHECKSUM: 96642ca3b078abb58c8cbdd367b34e79c98ff881
 
 COCOAPODS: 1.12.1
