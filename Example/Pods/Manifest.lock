@@ -1,6 +1,6 @@
 PODS:
   - Alamofire (5.7.1)
-  - mapi (1.1.1)
+  - mapi (1.2.1)
 
 DEPENDENCIES:
   - Alamofire
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
-  mapi: 9e51770797dccef90bece400d6b37938bb3eaa71
+  mapi: 98623b35a6046c0aaa60c55fd0cf2b5ea9b4e40e
 
 PODFILE CHECKSUM: 96642ca3b078abb58c8cbdd367b34e79c98ff881
 
